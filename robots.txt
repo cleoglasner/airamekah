@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ucaewaite.droid-break.info/sitemap.xml
